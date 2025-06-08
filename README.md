@@ -139,6 +139,9 @@ A resposta inclui o resultado da predição.
 ## 👨‍💻 Integrantes
 
 Carlos Eduardo Ariza Sartorio RM553461
+
 Fernando Shinji Tanigushi RM553587
+
 João Vitor Valaitis Paulo RM553972
+
 
